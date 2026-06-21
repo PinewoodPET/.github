@@ -5,4 +5,4 @@
 
 - [Roblox Group](https://www.roblox.com/communities/2593707/Pinewood-Emergency-Team#!/about)
 - [Discord Invite](https://discord.gg/t4KBPkM)
-- [Devforum Handbook](https://devforum.roblox.com/t/pinewood-emergency-team-handbook/3323409)
+- [DevForum Handbook](https://devforum.roblox.com/t/pinewood-emergency-team-handbook/4691725)
